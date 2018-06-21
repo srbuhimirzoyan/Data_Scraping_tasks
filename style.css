@@ -1,0 +1,20 @@
+
+body{background: lightblue;
+}
+ul{
+	color: green
+} /*to make a list some specific color use ul or
+  ol put {} and */
+
+#li_2{
+	color: red;
+} /*to make a single line another color use ids*/
+
+.my_text{
+background-color: green;	
+}
+#my_form:hover{
+background-color: red;	
+}
+/*hover is making an animation whenever you put a mouse into the
+text, it makes the color which one you mentioned*/
